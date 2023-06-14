@@ -1,3 +1,5 @@
 This is from the slack demo
 
 this is additional text to create conflict
+
+this is additional text to create conflict from the remote repo
